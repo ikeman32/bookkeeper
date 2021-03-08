@@ -1,0 +1,2 @@
+import react = require("react");
+
